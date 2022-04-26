@@ -1,3 +1,3 @@
 # bioinformatics
-## exploringbasics
+## exploring basics
 Machine Learning(python), R, Weka
