@@ -1,4 +1,4 @@
 # bioinformatics
-#### Machine Learning(python), R, Weka
+#### Machine Learning(Python), R, Weka
 
 #### Also, checkout GNN-ICUs project in Graph_ML-GNNs repo.
